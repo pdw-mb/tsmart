@@ -1,6 +1,6 @@
 # Python library for T-Smart smart thermostats
 
-This library provides access to [T-Smart smart thermostats](https://www.tsmart.co.uk/).
+This library provides access to [T-Smart smart thermostats](https://www.tsmart.co.uk/), and supports the [Home Assistant integration](https://github.com/pdw-mb/tsmart_ha) for these devices.
 
 ```py
 from tsmart import TSmart
